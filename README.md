@@ -1,5 +1,5 @@
 # TripleTen_projects
-Projects I worked on while attending the Data Science TripleTen Bootcamp.
+A selection of projects I worked on while attending the Data Science TripleTen Bootcamp.
 
 
 | Project number | Title | Description |
