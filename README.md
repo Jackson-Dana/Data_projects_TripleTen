@@ -5,7 +5,7 @@ A small selection of projects I worked on while attending the Data Science Tripl
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 |  [Statistical Data Analysis in Cell Service User Data](https://github.com/Jackson-Dana/Data_projects_TripleTen/tree/main/01-SDA_project) | Analyzed the behavior of 500 clients, including their location, plan usage, and the number of calls and texts made in 2018, providing a comprehensive understanding of user behavior.  |
-| 2 | TITLE [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | Description |
+| 2 | [Linear Algebra Insurance Classification](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | Evaluated customer similarity, predicted insurance benefits, and implemented data obfuscation for client data protection, providing strategic insights for Sure Tomorrow’s marketing strategies and revenue optimization. |
 | 3 | TITLE | Description |
 | 4 | Movie Review Sentiment Classification | Built a machine learning model with text for classifying the sentiment of movie reviews using IMDB data. |
 | 5 | TITLE Machine Learning Customer Interaction Strategies | Description  |
