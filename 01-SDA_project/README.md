@@ -4,7 +4,7 @@ This is the 3rd project I worked on in the TripleTen Data Science program. This 
 
 ## Megaline Prepaid Plans
 
-The goal of the project was to analyze the behavior of 500 clients, including their location, plan usage, and the number of calls and texts made in 2018. The aim was to determine which of the two prepaid plans, Surf and Ultimate, brings in more revenue.
+The goal of the project was to analyze the behavior of 500 clients in order to determine which phone plan, either Surf or Ultimate, generates more revenue. 
 
 ### The Data
 
@@ -30,6 +30,6 @@ The results were explained at each step. An introduction and conclusion were wri
 
 ## Conclusion
 
-The project provided strategic insights for the marketing team at Megaline. Hypothesis testing and data analysis led to the conclusion that one plan should be favored by the marketing team to maximize revenue. The insights gained from this project have the potential to guide future marketing strategies and optimize revenue generation. 
+The project provided strategic insights for the marketing team at Megaline. Hypothesis testing and data analysis led to the conclusion that the Surf plan generated more per-user revanue. The insights gained from this project have the potential to guide future marketing strategies and optimize revenue generation. 
 
 Please refer to the Jupyter Notebook for a detailed description of the results.
