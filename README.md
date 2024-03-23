@@ -4,7 +4,7 @@ A small selection of projects I worked on while attending the Data Science Tripl
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Statistical Data Analysis in Cell Service User Data | Analyzed the behavior of 500 clients, including their location, plan usage, and the number of calls and texts made in 2018, providing a comprehensive understanding of user behavior.  |
+| 1 | Statistical Data Analysis in Cell Service User Data [SDA](https://github.com/Jackson-Dana/Data_projects_TripleTen/tree/main/01-SDA_project) | Analyzed the behavior of 500 clients, including their location, plan usage, and the number of calls and texts made in 2018, providing a comprehensive understanding of user behavior.  |
 | 2 | TITLE [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | Description |
 | 3 | TITLE | Description |
 | 4 | Movie Review Sentiment Classification | Built a machine learning model with text for classifying the sentiment of movie reviews using IMDB data. |
