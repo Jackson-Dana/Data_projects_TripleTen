@@ -1,4 +1,4 @@
-# TripleTen Spring 11 project - Machine Learning and Linear Algebra
+# TripleTen Sprint 11 Project - Machine Learning and Linear Algebra
 
 This is the 11th project I worked on in the TripleTen Data Science program. The Sure Tomorrow insurance company could benefit from the results of several tasks with the help of Machine Learning in order to improve revenue and outcomes.
 
