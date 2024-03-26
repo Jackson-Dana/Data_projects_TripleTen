@@ -8,7 +8,7 @@ The objective was to use a dataset of IMBD movie reviews with polarity labelling
 
 ### The Data
 
-The data was stored in the `imdb_reviews.tsv` file. It was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. The selected fields included:
+The data was stored in the `imdb_reviews.tsv` file. It was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011). This dataset was too large to post here on github. The selected fields included:
 
 - `review`: the review text
 - `pos`: the target, '0' for negative and '1' for positive
