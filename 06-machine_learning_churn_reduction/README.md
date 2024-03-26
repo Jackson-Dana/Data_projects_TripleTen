@@ -1,6 +1,6 @@
 # Sprint 17 Project - Predicting Customer Churn
 
-This is the 17th project I worked on in the TripleTen Data Science program. A telecom company needed a system of identifying customers that were churn risks. The results of this project could help the company improve customer retention and outcomes.
+This is the 16th project I worked on in the TripleTen Data Science program. A telecom company needed a system of identifying customers that were churn risks. The results of this project could help the company improve customer retention and outcomes.
 
 ## Project Goals
 
