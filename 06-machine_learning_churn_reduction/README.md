@@ -10,7 +10,7 @@ The goal of the project was to explore the data in order to then produce a model
 
 
 
-### The Data
+## The Data
 
 - **Features**:
   - `customerID`: Unique identifier for each customer.
@@ -37,7 +37,7 @@ The goal of the project was to explore the data in order to then produce a model
 
 
 
-### The Process
+## The Process
 
 1. Loaded the data and checked that the data is free of issues — there is no missing data, extreme values, and so on.
 2. Analyzed the data for class imbalances, needed information, useless information, and any opportunities for feature engineering.
