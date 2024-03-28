@@ -6,7 +6,7 @@ This is the 16th project I worked on in the TripleTen Data Science program. A te
 
 ## Project Goals
 
-The goal of the project was to explore the data in order to then produce a model to effectively identify customers likely to discontinue their service and then have the opportunity to offer them incentives to stay. This involved building a model to predict customer churn.
+The goal of the project was to explore the data in order to then produce a model to effectively identify customers likely to discontinue their service and then have the opportunity to offer them incentives to stay. Therefore, the main goal of this project was to build a model to predict customer churn through binary classification.
 
 
 
