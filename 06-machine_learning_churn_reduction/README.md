@@ -9,7 +9,26 @@ The goal of the project was to explore the data in order to then produce a model
 
 ### The Data
 
-The dataset includes the following features: customerID, BeginDate, EndDate, Type, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, gender, SeniorCitizen, Partner, Dependents, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies, and MultipleLines.
+customerID: A unique identifier for each customer.
+BeginDate: The start date of the customer’s service.
+EndDate: The end date of the customer’s service (if applicable).
+Type: The contract type (e.g., month-to-month, two-year).
+PaperlessBilling: Indicates whether the customer uses paperless billing.
+PaymentMethod: The method of payment (e.g., electronic check, mailed check).
+MonthlyCharges: The monthly charges for the service.
+TotalCharges: The total charges incurred by the customer.
+gender: The gender of the customer.
+SeniorCitizen: Indicates if the customer is a senior citizen (1 for yes, 0 for no).
+Partner: Indicates whether the customer has a partner (1 for yes, 0 for no).
+Dependents: Indicates whether the customer has dependents (1 for yes, 0 for no).
+InternetService: The type of internet service (e.g., fiber optic, DSL).
+OnlineSecurity: Indicates whether the customer has online security (1 for yes, 0 for no).
+OnlineBackup: Indicates whether the customer has online backup (1 for yes, 0 for no).
+DeviceProtection: Indicates whether the customer has device protection (1 for yes, 0 for no).
+TechSupport: Indicates whether the customer has tech support (1 for yes, 0 for no).
+StreamingTV: Indicates whether the customer has streaming TV (1 for yes, 0 for no).
+StreamingMovies: Indicates whether the customer has streaming movies (1 for yes, 0 for no).
+MultipleLines: Indicates whether the customer has multiple phone lines (1 for yes, 0 for no).
 
 ### The Process
 
