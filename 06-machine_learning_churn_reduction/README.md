@@ -31,7 +31,7 @@ The goal of the project was to explore the data in order to then produce a model
   - `StreamingTV`
   - `StreamingMovies`
   - `MultipleLines`
-  - 
+    
 
 ### The Process
 
