@@ -9,26 +9,26 @@ The goal of the project was to explore the data in order to then produce a model
 
 ### The Data
 
-customerID: A unique identifier for each customer.
-BeginDate: The start date of the customer’s service.
-EndDate: The end date of the customer’s service (if applicable).
-Type: The contract type (e.g., month-to-month, two-year).
-PaperlessBilling: Indicates whether the customer uses paperless billing.
-PaymentMethod: The method of payment (e.g., electronic check, mailed check).
-MonthlyCharges: The monthly charges for the service.
-TotalCharges: The total charges incurred by the customer.
-gender: The gender of the customer.
-SeniorCitizen: Indicates if the customer is a senior citizen (1 for yes, 0 for no).
-Partner: Indicates whether the customer has a partner (1 for yes, 0 for no).
-Dependents: Indicates whether the customer has dependents (1 for yes, 0 for no).
-InternetService: The type of internet service (e.g., fiber optic, DSL).
-OnlineSecurity: Indicates whether the customer has online security (1 for yes, 0 for no).
-OnlineBackup: Indicates whether the customer has online backup (1 for yes, 0 for no).
-DeviceProtection: Indicates whether the customer has device protection (1 for yes, 0 for no).
-TechSupport: Indicates whether the customer has tech support (1 for yes, 0 for no).
-StreamingTV: Indicates whether the customer has streaming TV (1 for yes, 0 for no).
-StreamingMovies: Indicates whether the customer has streaming movies (1 for yes, 0 for no).
-MultipleLines: Indicates whether the customer has multiple phone lines (1 for yes, 0 for no).
+1. **customerID**: A unique identifier for each customer.
+2. **BeginDate**: The start date of the customer’s service.
+3. **EndDate**: The end date of the customer’s service (if applicable).
+4. **Type**: The contract type (e.g., month-to-month, two-year).
+5. **PaperlessBilling**: Indicates whether the customer uses paperless billing.
+6. **PaymentMethod**: The method of payment (e.g., electronic check, mailed check).
+7. **MonthlyCharges**: The monthly charges for the service.
+8. **TotalCharges**: The total charges incurred by the customer.
+9. **gender**: The gender of the customer.
+10. **SeniorCitizen**: Indicates if the customer is a senior citizen (1 for yes, 0 for no).
+11. **Partner**: Indicates whether the customer has a partner (1 for yes, 0 for no).
+12. **Dependents**: Indicates whether the customer has dependents (1 for yes, 0 for no).
+13. **InternetService**: The type of internet service (e.g., fiber optic, DSL).
+14. **OnlineSecurity**: Indicates whether the customer has online security (1 for yes, 0 for no).
+15. **OnlineBackup**: Indicates whether the customer has online backup (1 for yes, 0 for no).
+16. **DeviceProtection**: Indicates whether the customer has device protection (1 for yes, 0 for no).
+17. **TechSupport**: Indicates whether the customer has tech support (1 for yes, 0 for no).
+18. **StreamingTV**: Indicates whether the customer has streaming TV (1 for yes, 0 for no).
+19. **StreamingMovies**: Indicates whether the customer has streaming movies (1 for yes, 0 for no).
+20. **MultipleLines**: Indicates whether the customer has multiple phone lines (1 for yes, 0 for no).
 
 ### The Process
 
