@@ -23,7 +23,7 @@ The project involved several steps:
 3. Preprocessing the data for modeling.
 4. Training at least three different models for the given train dataset.
 5. Testing the models for the given test dataset.
-6. Composing a few of our own reviews and classifying them with all the models.
+6. Composing a few original reviews and classifying them with all the models.
 7. Checking for differences between the testing results of models in the above two points and trying to explain them.
 8. Presenting the findings.
 
