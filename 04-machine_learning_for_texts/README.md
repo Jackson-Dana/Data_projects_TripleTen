@@ -29,7 +29,7 @@ The project involved several steps:
 
 ## Results
 
-The results were explained at each step. An introduction and conclusion were written that outlined the work done and made suggestions for the Film Junky Union to consider in the future. The Jupyter Notebook included provides a full description of the results. The best model, Logistic Regression, achieved an accuracy score of 0.88, ROC-AUC score of 0.95, and F1 score of 0.88 with testing data.
+The results were explained at each step. An introduction and conclusion were written that outlined the work done and made suggestions for the Film Junky Union to consider in the future. The best model, Logistic Regression, achieved an accuracy score of 0.88, ROC-AUC score of 0.95, and F1 score of 0.88 with testing data. Additionally, the models tested generalized well on the original reviews composed for this task. 
 
 ## Conclusion
 
