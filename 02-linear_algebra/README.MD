@@ -9,7 +9,7 @@ The goal of the project was to solve the following tasks:
 1. Find customers who are similar to a given customer. This will help the company's agents with marketing.
 2. Predict whether a new customer is likely to receive an insurance benefit. Can a prediction model do better than a dummy model?
 3. Predict the number of insurance benefits a new customer is likely to receive using a linear regression model.
-4. Protect clients' personal data without breaking the model from the previous task. It's necessary to develop a data transformation algorithm that would make it hard to recover personal information if the data fell into the wrong hands. This is called data masking, or data obfuscation. But the data should be protected in such a way that the quality of machine learning models doesn't suffer. .
+4. Protect clients' personal data without breaking the model from the previous task. It's necessary to develop a data transformation algorithm that would make it hard to recover personal information if the data fell into the wrong hands. This is called data masking, or data obfuscation. The data should be protected in such a way that the quality of machine learning models doesn't suffer. 
 
 ### The Data
 
