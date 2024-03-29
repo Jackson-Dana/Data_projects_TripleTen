@@ -53,5 +53,5 @@ It's worth noting that random states were not consistently set throughout the pr
 
 ## Conclusion
 
-The project provided strategic insights for the marketing team at Interconnect telecom company. The insights gained from this project have the potential to guide future marketing strategies and optimize customer retention. The high AUC-ROC score of 0.886 suggests that this model is ready to be explored further with the goal of being implimented. By sending customers with high churn risk discounts or special deals, this model could reduce churn by a significant degree. Please refer to the Jupyter Notebook for a detailed description of the results. Additionally, the CSV files are also included.
+The project provided strategic insights for the marketing team at Interconnect telecom company. The insights gained from this project have the potential to guide future marketing strategies and optimize customer retention. The high AUC-ROC score of 0.886 suggests that this model is ready to be explored further with the goal of being implemented. Please refer to the Jupyter Notebook for a detailed description of the results. Additionally, the CSV files are also included. The next step would be to work with the marketing team to design and test targeted retention campaigns based on the model's predictions.
 
