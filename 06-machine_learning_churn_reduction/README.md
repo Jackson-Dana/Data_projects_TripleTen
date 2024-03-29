@@ -12,28 +12,18 @@ The goal of the project was to explore the data in order to then produce a model
 
 ## The Data
 
-- **Features**:
-  - `customerID`: Unique identifier for each customer.
-  - `BeginDate`: Start date of the customer’s service.
-  - `EndDate`: End date of the customer’s service (if applicable).
-  - `Type`: Contract type (e.g., month-to-month, two-year).
-  - `PaperlessBilling`: Indicates paperless billing usage.
-  - `PaymentMethod`: Method of payment (e.g., electronic check, mailed check).
-  - `MonthlyCharges`: Monthly service charges.
-  - `TotalCharges`: Total charges incurred by the customer.
-  - `gender`: Customer gender.
 
-- **Binary Features**:
-  - `SeniorCitizen`
-  - `Partner`
-  - `Dependents`
-  - `OnlineSecurity`
-  - `OnlineBackup`
-  - `DeviceProtection`
-  - `TechSupport`
-  - `StreamingTV`
-  - `StreamingMovies`
-  - `MultipleLines`
+The data consists of files obtained from different sources:
+
+1. `contract.csv` — Contract information
+2. `personal.csv` — The client's personal data
+3. `internet.csv` — Information about Internet services
+4. `phone.csv` — Information about telephone services
+
+Each file contains a unique code assigned to each client in the `customerID` column.
+
+The contract information is valid as of February 1, 2020.
+
 
 
 
