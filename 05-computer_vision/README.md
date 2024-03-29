@@ -11,11 +11,11 @@ The goal of the project was to solve the following tasks:
 3. Train and evaluate the model on a GPU platform, reaching an MAE of below 8. 
 4. Combine your code, output, and findings in the final Jupyter notebook.
 
-### The Data
+## The Data
 
 The dataset includes a set of photographs of people with their ages indicated.
 
-### The Process
+## The Process
 
 1. Performed exploratory data analysis to get an overall impression of the dataset.
 2. Trained and evaluated the model on a GPU platform using the Keras API from TensorFlow. The model uses the ResNet50 architecture with pre-trained weights from ImageNet. It processes image data, trains with the Adam optimizer and Mean Squared Error loss function, and evaluates performance using Mean Absolute Error.
