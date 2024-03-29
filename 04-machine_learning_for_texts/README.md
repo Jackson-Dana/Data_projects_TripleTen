@@ -6,7 +6,7 @@ This is the 14th project I worked on in the TripleTen Data Science program. The 
 
 The objective was to use a dataset of IMBD movie reviews with polarity labelling to build a model for classifying positive and negative reviews. The target was to reach an F1 score of at least 0.85.
 
-### The Data
+## The Data
 
 The data was stored in the `imdb_reviews.tsv` file. It was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011). This dataset was too large to post here on github. The selected fields included:
 
@@ -14,7 +14,7 @@ The data was stored in the `imdb_reviews.tsv` file. It was provided by Andrew L.
 - `pos`: the target, '0' for negative and '1' for positive
 - `ds_part`: 'train'/'test' for the train/test part of dataset, correspondingly
 
-### The Process
+## The Process
 
 The project involved several steps:
 
@@ -33,4 +33,4 @@ The results were explained at each step. An introduction and conclusion were wri
 
 ## Conclusion
 
-This project provided a comprehensive understanding of sentiment analysis and its application in classifying movie reviews. The insights gained from this project can be used by the Film Junky Union to automatically filter and categorize movie reviews, enhancing the user experience on their platform. The project also demonstrated the effectiveness of various machine learning algorithms in text classification tasks, providing a foundation for future work in this area.
+This project provided a comprehensive understanding of sentiment analysis and its application in classifying movie reviews. The insights gained from this project can be used by the Film Junky Union to automatically filter and categorize movie reviews, enhancing the user experience on their platform. The project also demonstrated the effectiveness of various machine learning algorithms in text classification tasks, providing a foundation for future work in this area. For a more detailed explanation of the project, including the code, visualizations, and in-depth analysis, please refer to the accompanying Jupyter Notebook file.
