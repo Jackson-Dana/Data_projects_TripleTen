@@ -8,7 +8,7 @@ The goal of the project was to solve the following tasks:
 
 1. Build and evaluate a model for verifying people's age. This will help the company adhere to alcohol laws.
 2. Perform exploratory data analysis to get an overall impression of the dataset.
-3. Train and evaluate the model on a GPU platform, reaching an MEA of below 8. 
+3. Train and evaluate the model on a GPU platform, reaching an MAE of below 8. 
 4. Combine your code, output, and findings in the final Jupyter notebook.
 
 ### The Data
@@ -18,12 +18,12 @@ The dataset includes a set of photographs of people with their ages indicated.
 ### The Process
 
 1. Performed exploratory data analysis to get an overall impression of the dataset.
-2. Trained and evaluated the model on a GPU platform. 
+2. Trained and evaluated the model on a GPU platform using the Keras API from TensorFlow. The model uses the ResNet50 architecture with pre-trained weights from ImageNet. It processes image data, trains with the Adam optimizer and Mean Squared Error loss function, and evaluates performance using Mean Absolute Error.
 3. Combined the code, output, and findings in the final Jupyter notebook.
 
 ## Results
 
-After preprocessing and analyzing the data, a computer vision model was trained on the age data of many faces. The model seems to be ready to be implemented in the field after some further testing. A company could use such a model to analyze the ages of customers to great effect based on the above data. The test MEA of the final model was 5.825, far under the threshold value of 8.
+After preprocessing and analyzing the data, a computer vision model was trained on the age data of many faces. The model seems to be ready to be implemented in the field after some further testing. A company could use such a model to analyze the ages of customers to great effect based on the above data. The test MAE of the final model was 5.825, far under the threshold value of 8.
 
 ## Conclusion
 
