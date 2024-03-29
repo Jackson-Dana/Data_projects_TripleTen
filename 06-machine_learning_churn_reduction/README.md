@@ -1,29 +1,36 @@
-# Sprint 17 Project - Predicting Customer Churn
+# Sprint 17 Project - Predicting Customer Churn 
 
-This is the 16th project I worked on in the TripleTen Data Science program. A telecom company needed a system of identifying customers that were churn risks. The results of this project could help the company improve customer retention and outcomes.
-
-
+This is the 16th project I worked on in the TripleTen Data Science program. Interconnect, a telecom company, needed a system of identifying customers that were churn risks. The results of this project could help the company improve customer retention and outcomes by offering promotional codes and special plan options to users planning to leave.
 
 ## Project Goals
 
-The goal of the project was to explore the data in order to then produce a model to effectively identify customers likely to discontinue their service and then have the opportunity to offer them incentives to stay. Therefore, the main goal of this project was to build a model to predict customer churn through binary classification.
+The primary goal of this project was to build a binary classification model that effectively identifies customers at high risk of churning. By accurately predicting which customers are likely to discontinue their service, Interconnect can proactively offer incentives and special plan options to retain these customers and improve overall customer retention.
 
+## Interconnect's Services
 
+Interconnect mainly provides two types of services:
+
+Landline communication. The telephone can be connected to several lines simultaneously.
+Internet. The network can be set up via a telephone line (DSL, digital subscriber line) or through a fiber optic cable.
+Some other services the company provides include:
+
+Internet security: antivirus software (DeviceProtection) and a malicious website blocker (OnlineSecurity)
+A dedicated technical support line (TechSupport)
+Cloud file storage and data backup (OnlineBackup)
+TV streaming (StreamingTV) and a movie directory (StreamingMovies)
+The clients can choose either a monthly payment or sign a 1- or 2-year contract. They can use various payment methods and receive an electronic invoice after a transaction.
 
 ## The Data
 
-
 The data consists of files obtained from different sources:
 
-1. `contract.csv` — Contract information
-2. `personal.csv` — The client's personal data
-3. `internet.csv` — Information about Internet services
-4. `phone.csv` — Information about telephone services
-
-Each file contains a unique code assigned to each client in the `customerID` column.
+contract.csv — Contract information
+personal.csv — The client's personal data
+internet.csv — Information about Internet services
+phone.csv — Information about telephone services
+Each file contains a unique code assigned to each client in the customerID column.
 
 The contract information is valid as of February 1, 2020.
-
 
 
 
