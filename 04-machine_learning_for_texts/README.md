@@ -21,7 +21,19 @@ The project involved several steps:
 1. Loading and preprocessing the data.
 2. Conducting an Exploratory Data Analysis (EDA) and concluding on the class imbalance.
 3. Preprocessing the text data for modeling.
-4. Training at least three different models for the given train dataset.
+4. 4. Training three different models plus a dummy for the given train dataset:
+   - Model 1:
+     - Text preprocessing: NLTK
+     - Feature extraction: TF-IDF
+     - Classification: Logistic Regression (LR)
+   - Model 3:
+     - Text preprocessing: spaCy
+     - Feature extraction: TF-IDF
+     - Classification: Logistic Regression (LR)
+   - Model 4:
+     - Text preprocessing: spaCy
+     - Feature extraction: TF-IDF
+     - Classification: LGBMClassifier
 5. Testing the models for the given test dataset.
 6. Composing a few original reviews and classifying them with all the models.
 7. Checking for differences between the testing results of models in the above two points and trying to explain them.
