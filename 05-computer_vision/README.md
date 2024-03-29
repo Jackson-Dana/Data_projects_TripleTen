@@ -6,8 +6,8 @@ This is the 15th project I worked on in the TripleTen Data Science program. The 
 
 The goal of the project was to solve the following tasks:
 
-1. Build and evaluate a model for verifying people's age. This will help the company adhere to alcohol laws.
-2. Perform exploratory data analysis to get an overall impression of the dataset.
+1. Perform exploratory data analysis to get an overall impression of the dataset.
+2. Build and evaluate a model for verifying people's age. This will help the company adhere to alcohol laws. 
 3. Train and evaluate the model on a GPU platform, reaching an MAE of below 8. 
 4. Combine your code, output, and findings in the final Jupyter notebook.
 
