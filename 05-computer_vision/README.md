@@ -1,6 +1,6 @@
 # TripleTen Sprint 15 Project - Computer Vision and Age Verification
 
-This is the 15th project I worked on in the TripleTen Data Science program. The goal was to explore whether Data Science can help the Good Seed Supermarket Chain adhere to alcohol laws by making sure they do not sell alcohol to people underage. The project contains two Jupyter Notebook files and a python file. The Jupyter Notebook files are the first and second half of this project. The exploratory data analysis was done in the file labled as EDA, and the GPU output was explored in the file labled as GPU. 
+This is the 15th project I worked on in the TripleTen Data Science program. The goal was to explore whether Data Science can help the Good Seed Supermarket Chain adhere to alcohol laws by making sure they do not sell alcohol to people underage. The project contains two Jupyter Notebook files and a python file. The Jupyter Notebook files are the first and second half of this project. The exploratory data analysis was done in the file labled as EDA, and the GPU output was explored in the file labled as GPU. The GPU notebook file still has the EDA observations, but the code outputs are missing. 
 
 ## Project Goals
 
