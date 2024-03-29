@@ -38,7 +38,7 @@ The contract information is valid as of February 1, 2020.
 ## The Process
 
 1. Loaded the data and checked that the data is free of issues — there is no missing data, extreme values, and so on.
-2. Merged the four CSV files on the 'customerID' column.
+2. Merged the four CSV files on the `customerID` column.
 3. Analyzed the data for class imbalances, needed information, useless information, and any opportunities for feature engineering.
 4. Implemented one hot encoding and created new columns based on `EndDate`. If this `EndDate` column had values, it meant the customer had left the company, creating an opportunity for target prediction from this data.
 5. Researched seasonality of data more closely.
