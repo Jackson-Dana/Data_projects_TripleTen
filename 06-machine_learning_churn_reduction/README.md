@@ -30,11 +30,12 @@ The contract information is valid as of February 1, 2020.
 ## The Process
 
 1. Loaded the data and checked that the data is free of issues — there is no missing data, extreme values, and so on.
-2. Analyzed the data for class imbalances, needed information, useless information, and any opportunities for feature engineering.
-3. Implemented one hot encoding and created new columns based on `EndDate`. If this `EndDate` column had values, it meant the customer had left the company, creating an opportunity for target prediction from this data. 
-4. Researched seasonality of data more closely.
-5. Trained several different models to find the most successful one. The primary metric being AUC-ROC and the additional one being accuracy. Machine learning models included Logistic Regression, RandomForestClassifier, GradientBoosting, and MLPClassifier.
-6. Performed hyperparameter tuning and regularization of the best model after feature selection.
+2. Merged the four CSV files on the 'customerID' column. 
+3. Analyzed the data for class imbalances, needed information, useless information, and any opportunities for feature engineering.
+4. Implemented one hot encoding and created new columns based on `EndDate`. If this `EndDate` column had values, it meant the customer had left the company, creating an opportunity for target prediction from this data. 
+5. Researched seasonality of data more closely.
+6. Trained several different models to find the most successful one. The primary metric being AUC-ROC and the additional one being accuracy. Machine learning models included Logistic Regression, RandomForestClassifier, GradientBoosting, and MLPClassifier.
+7. Performed hyperparameter tuning and regularization of the best model after feature selection.
 
 
 
