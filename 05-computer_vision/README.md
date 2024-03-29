@@ -29,8 +29,8 @@ After preprocessing and analyzing the data, a computer vision model was trained 
 
 The project has provided strategic insights for the Good Seed Supermarket Chain. These insights have the potential to guide future strategies and optimize revenue generation. For more details, please refer to the following:
 
-1. **GPU_output_computer_vision_age_verification.ipynb**: This contains a detailed description of the results of the GPU training.
-2. **EDA_computer_vision_age_verification.ipynb**: This contains the exploratory data analysis and preperation of the project.
+1. **EDA_computer_vision_age_verification.ipynb**: This contains the exploratory data analysis and preperation of the project
+2. **GPU_output_computer_vision_age_verification.ipynb**: This contains a detailed description of the results of the GPU training.
 3. **test.py**: It includes the model that can be uploaded to a GPU platform.
 
 Unfortunately, the photo dataset was too large to post on GitHub. Additionally, the GPU output will not appear when viewing the Jupyter Notebook file directly through GitHub. To access the full output, please download the Jupyter Notebook file and view them using Visual Studio Code.
