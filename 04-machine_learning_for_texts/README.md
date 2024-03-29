@@ -22,15 +22,15 @@ The project involved several steps:
 2. Conducting an Exploratory Data Analysis (EDA) and concluding on the class imbalance.
 3. Preprocessing the text data for modeling.
 4. Training three different models plus a dummy for the given train dataset:
-   - Model :
+   - First Model :
      - Text preprocessing: NLTK
      - Feature extraction: TF-IDF
      - Classification: Logistic Regression (LR)
-   - Model :
+   - Second Model :
      - Text preprocessing: spaCy
      - Feature extraction: TF-IDF
      - Classification: Logistic Regression (LR)
-   - Model :
+   - Third Model :
      - Text preprocessing: spaCy
      - Feature extraction: TF-IDF
      - Classification: LGBMClassifier
