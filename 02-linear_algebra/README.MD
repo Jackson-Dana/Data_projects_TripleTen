@@ -26,7 +26,9 @@ The dataset includes the following features: insured person's gender, age, salar
 The results were explained at each step. An introduction and conclusion were written that outlined the work done and made suggestions for Sure Tomorrow to consider in the future. 
 
 1. Found customers similar to a given customer and then trained a model to predict if a new customer will need benefits. The trained model does better than the dummy model.
-2. Predicted the number of insurance benefits a customer is likely to receive using a linear regression model. It was successful, and then I showed that the R2 value is not impacted by scaling when using a linear regression model.
+2. Predicted the number of insurance benefits a customer is likely to receive using a linear regression model. It was successful, and then I showed that the R2 value is not impacted by scaling when using a linear regression model. 
+- Original Data: RMSE = 0.22110486038594188, R2 = 0.7866629976839693 
+- Obfuscated Data: RMSE = 0.22110486039081015, R2 = 0.7866629976745749
 3. Protected the clients' data through obfuscation without impacting the quality of the data or the ability to train models on the data.
 
 ## Conclusion
