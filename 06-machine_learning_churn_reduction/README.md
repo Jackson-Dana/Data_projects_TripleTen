@@ -24,10 +24,14 @@ The clients can choose either a monthly payment or sign a 1- or 2-year contract.
 
 The data consists of files obtained from different sources:
 
-contract.csv — Contract information
-personal.csv — The client's personal data
-internet.csv — Information about Internet services
-phone.csv — Information about telephone services
+1. contract.csv — Contract information
+
+2. personal.csv — The client's personal data
+
+3. internet.csv — Information about Internet services
+
+4. phone.csv — Information about telephone services
+
 Each file contains a unique code assigned to each client in the customerID column.
 
 The contract information is valid as of February 1, 2020.
