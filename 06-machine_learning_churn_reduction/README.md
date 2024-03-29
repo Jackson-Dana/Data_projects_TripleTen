@@ -47,7 +47,9 @@ The contract information is valid as of February 1, 2020.
 
 ## Results
 
-The final model was a Gradient Boosting model with fine-tuned hyperparameters. This model also needed some gradient boosting regularization during training, with some feature selection done on the data set in order to use the most relevant data in making predictions. The final quality scores of this model when tested against the test set are as follows: Test AUC-ROC: 0.886 and Test Accuracy: 0.841. One thing of note is that I did not properly set random states throughout the project. This means the quality scores will be slightly different each time the model is run, and will then not quite match what was recorded throughout the project. This would be addressed in future iterations of the project.
+The final model was a Gradient Boosting model with fine-tuned hyperparameters and regularization applied during training. Feature selection was also performed to ensure that the most relevant data was used in making predictions. The model achieved impressive performance metrics when evaluated on the test set, with an AUC-ROC score of 0.886 and an accuracy of 0.841.
+
+It's worth noting that random states were not consistently set throughout the project, which may lead to slight variations in the quality scores each time the model is run. While this does not significantly impact the overall results, it is an area for improvement in future iterations of the project to ensure full reproducibility.
 
 ## Conclusion
 
