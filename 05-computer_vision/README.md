@@ -1,6 +1,6 @@
 # TripleTen Sprint 15 Project - Computer Vision and Age Verification
 
-This is the 15th project I worked on in the TripleTen Data Science program. The goal was to explore whether Data Science can help the Good Seed Supermarket Chain adhere to alcohol laws by making sure they do not sell alcohol to people underage.
+This is the 15th project I worked on in the TripleTen Data Science program. The goal was to explore whether Data Science can help the Good Seed Supermarket Chain adhere to alcohol laws by making sure they do not sell alcohol to people underage. The project contains two Jupyter Notebook files and a python file. The Jupyter Notebook files are the first and second half of this project. The exploratory data analysis was done in the file labled as EDA, and the GPU output was explored in the file labled as GPU. 
 
 ## Project Goals
 
@@ -29,7 +29,8 @@ After preprocessing and analyzing the data, a computer vision model was trained 
 
 The project has provided strategic insights for the Good Seed Supermarket Chain. These insights have the potential to guide future strategies and optimize revenue generation. For more details, please refer to the following:
 
-1. **computer_vision_age_verification.ipynb**: This contains a detailed description of the results.
-2. **test.py**: It includes the model that can be uploaded to a GPU platform.
+1. **GPU_output_computer_vision_age_verification.ipynb**: This contains a detailed description of the results of the GPU training.
+2. **EDA_computer_vision_age_verification.ipynb**: This contains the exploratory data analysis and preperation of the project.
+3. **test.py**: It includes the model that can be uploaded to a GPU platform.
 
-Unfortunately, the photo dataset was too large to post on GitHub. Additionally, the GPU output will now appear when viewing the Jupyter Notebook file directly through GitHub. To access the full output, please download the Jupyter Notebook file and view them using Visual Studio Code.
+Unfortunately, the photo dataset was too large to post on GitHub. Additionally, the GPU output will not appear when viewing the Jupyter Notebook file directly through GitHub. To access the full output, please download the Jupyter Notebook file and view them using Visual Studio Code.
