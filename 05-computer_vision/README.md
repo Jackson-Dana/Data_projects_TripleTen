@@ -2,6 +2,8 @@
 
 This is the 15th project I worked on in the TripleTen Data Science program. The goal was to explore whether Data Science can help the Good Seed Supermarket Chain adhere to alcohol laws by making sure they do not sell alcohol to people underage. The project contains two Jupyter Notebook files and a python file. The Jupyter Notebook files are the first and second half of this project. The exploratory data analysis was done in the file labled as EDA, and the GPU output was explored in the file labled as GPU. The GPU notebook file still has the EDA observations, but the code outputs are missing. 
 
+Please see my video explanation of this project here: [Video Demo](https://drive.google.com/file/d/1VBwFWiSEhnq6Qro7fUOQtFvK1-z7icYO/view?usp=drive_link)
+
 ## Project Goals
 
 The goal of the project was to solve the following tasks:
